@@ -1,0 +1,15 @@
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/bin/Debug/net6.0/ScreenSound
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/bin/Debug/net6.0/ScreenSound.deps.json
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/bin/Debug/net6.0/ScreenSound.runtimeconfig.json
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/bin/Debug/net6.0/ScreenSound.dll
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/bin/Debug/net6.0/ScreenSound.pdb
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.AssemblyReference.cache
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfoInputs.cache
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfo.cs
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.CoreCompileInputs.cache
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.dll
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/refint/ScreenSound.dll
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.pdb
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
+/Users/gabrielmatos/Projects/ScreenSound/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll

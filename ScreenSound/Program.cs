@@ -1,0 +1,17 @@
+﻿Banda queen = new Banda("Queen");
+Album albumDoQueen = new Album("A night at the opera");
+Musica musica1 = new Musica(queen,"Love of my life");
+musica1.Duracao = 234;
+musica1.Disponivel = true;
+Musica musica2 = new Musica(queen, "Bohemin Rhapsody");
+musica2.Duracao = 334;
+musica2.Disponivel = false;
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
+albumDoQueen.ListarAlbum();
+queen.AddToAlbum(albumDoQueen);
+queen.ExibirDiscografia();
+Console.WriteLine("-----------");
+musica1.ExibirFicaTecnica();
+Console.WriteLine("-----------");
+musica2.ExibirFicaTecnica();
