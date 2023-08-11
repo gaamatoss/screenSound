@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Menus\" />
+    <None Remove="Modelos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Menus\" />
+    <Folder Include="Modelos\" />
+  </ItemGroup>
 </Project>

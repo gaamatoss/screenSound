@@ -1,4 +1,6 @@
-﻿public class Musica
+﻿namespace ScreenSound.Modelos;
+
+internal class Musica
 {
     public Musica(Banda artista, string nome)
     {
@@ -10,27 +12,19 @@
     public Banda Artista { get; }
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
-    public string Descricao
-    {
-        get
-        {
-            return $"A musica {Nome} pertence à {Artista}";
-        }
-    }
+    public string DescricaoResumida => $"A música {Nome} pertence à banda {Artista}";
 
-    public void ExibirFicaTecnica()
+    public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome: {Nome}");
         Console.WriteLine($"Artista: {Artista.Nome}");
         Console.WriteLine($"Duração: {Duracao}");
-        Console.WriteLine($"Descrição: {Descricao}");
         if (Disponivel)
         {
-            Console.WriteLine("Disponivel no plano.");
+            Console.WriteLine("Disponível no plano.");
         } else
         {
-            Console.WriteLine("Adquira o plano plus.");
+            Console.WriteLine("Adquira o plano Plus+");
         }
     }
 }
-

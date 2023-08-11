@@ -1,25 +1,29 @@
 ﻿<Properties StartupConfiguration="{E6D7359F-DBCF-45B3-BA8A-0E9DCA1B1790}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ScreenSound PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ScreenSound/Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScreenSound/Modelos/Album.cs">
     <Files>
-      <File FileName="ScreenSound/Program.cs" Line="1" Column="1" />
+      <File FileName="ScreenSound/Program.cs" Line="65" Column="22" />
+      <File FileName="ScreenSound/Modelos/Banda.cs" />
+      <File FileName="ScreenSound/Modelos/Album.cs" Line="8" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ScreenSound">
-            <Node name="ScreenSound" expanded="True">
-              <Node name="Program.cs" selected="True" />
+          <Node name="ScreenSound" expanded="True">
+            <Node name="ScreenSound">
+              <Node name="Modelos" expanded="True">
+                <Node name="Album.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ScreenSound PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
