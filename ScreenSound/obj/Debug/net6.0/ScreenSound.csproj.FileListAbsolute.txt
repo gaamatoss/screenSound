@@ -28,3 +28,16 @@
 /Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/ScreenSound.pdb
 /Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
 /Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Http.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/bin/Debug/net6.0/OpenAI_API.dll
+/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.CopyComplete

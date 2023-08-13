@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "TA5ESNgj+smdaJmIOMR1LM6sI/VDq9rg8AYqKYArnCP5gOMJ0QWBGIz5CA616FUAceZjm2yQhEgXvL0H+Mmgvw==",
+  "dgSpecHash": "u9nrWpOheYwbgSDp9/s96W+b30bIDHoE9bklglI3EuqisyIqqw8T7t4l2AQiOO/+rz3XVQOxf8KlOyL1sLbc4w==",
   "success": true,
   "projectFilePath": "/Users/gabrielmatos/Documents/apps/screenSound/ScreenSound/ScreenSound.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/gabrielmatos/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.configuration/2.1.0/microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.0/microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.configuration.binder/2.1.0/microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.http/2.1.0/microsoft.extensions.http.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.logging/2.1.0/microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.0/microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.options/2.1.0/microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/microsoft.extensions.primitives/2.1.0/microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/openai/1.7.2/openai.1.7.2.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/gabrielmatos/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
